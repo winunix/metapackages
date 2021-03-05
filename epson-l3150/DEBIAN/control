@@ -1,0 +1,11 @@
+Package: epson-l3150
+Version: 0.0.2
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Description: Drivers for Epson L3150 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L3150 Printer - Wi-Fi Multifunction InkTank.
