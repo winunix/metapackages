@@ -1,0 +1,11 @@
+Package: lexmark-mx722
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: lexmark-aew-ppd-files, lexmark-network-scan
+Homepage: https://www.lexmark.com/pt_br/printer/12436/Lexmark-MX722adhe
+Description: Drivers for Lexmark MX722adhe Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Lexmark MX722adhe.
