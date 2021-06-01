@@ -1,0 +1,11 @@
+Package: lubuntu-openvpn
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: openvpn, network-manager-openvpn, network-manager-openvpn-gnome
+Homepage: https://openvpn.net
+Description: Packages for work openvpn in lubuntu.
+ A metapackage for installing all packages needed to run openvpn.
