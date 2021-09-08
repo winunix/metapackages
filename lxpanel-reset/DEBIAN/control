@@ -1,0 +1,11 @@
+Package: lxpanel-reset
+Version: 0.0.3
+Installed-Size: 2
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: lxreset
+Homepage: https://ailtonbsj.github.io
+Description: Transitional package.
+ Transitional package will be removed on next build October 21.
