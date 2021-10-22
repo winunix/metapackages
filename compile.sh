@@ -3,6 +3,7 @@
 dpkg-deb -b epson-l3110 .
 dpkg-deb -b epson-l3150 .
 dpkg-deb -b epson-l396 .
+dpkg-deb -b epson-l375 .
 dpkg-deb -b epson-l380 .
 dpkg-deb -b epson-l210 .
 dpkg-deb -b epson-l555 .

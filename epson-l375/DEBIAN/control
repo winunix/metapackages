@@ -1,0 +1,11 @@
+Package: epson-l375
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, imagescan, imagescan-plugin-gt-s650, imagescan-plugin-networkscan, imagescan-plugin-ocr-engine
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Description: Drivers for Epson L375 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L375 Printer - Wi-Fi Multifunction InkTank.
