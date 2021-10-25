@@ -1,0 +1,11 @@
+Package: youtube-dl-full
+Version: 0.0.1
+Installed-Size: 1798
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: youtube-dlg
+Homepage: https://youtube-dl.org/
+Description: Youtube-dl and a frontend.
+ This package install youtube-dl and a frontend youtube-dlg.
