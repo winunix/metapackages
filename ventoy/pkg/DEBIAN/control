@@ -1,0 +1,11 @@
+Package: ventoy
+Version: 1.0.74
+Installed-Size: 17848
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: xdg-utils, xterm
+Homepage: https://www.ventoy.net
+Description: Tool to create bootable USB drives
+ Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.

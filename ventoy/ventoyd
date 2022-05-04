@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /usr/share/ventoy/
+xterm -e "sudo /usr/share/ventoy/VentoyWeb.sh;bash" &

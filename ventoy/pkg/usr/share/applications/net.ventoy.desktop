@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Ventoy
+Name[pt_BR]=Ventoy
+Comment=Tool to create bootable USB drives
+Comment[pt_BR]=Ferramenta para criar discos de boot
+Exec=/usr/share/ventoy/VentoyGUI.x86_64
+Icon=ventoy
+Categories=Application;System;

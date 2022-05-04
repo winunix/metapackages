@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>net.ventoy.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Ventoy</name>
+  <name xml:lang="pt_BR">Ventoy</name>
+  <summary>Tool to create bootable USB drives</summary>
+  <summary xml:lang="pt_BR">Ferramenta para criar discos de boot</summary>
+  <description>
+    <p>Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.</p>
+    <p xml:lang="pt_BR">Ventoy é uma ferramenta de código aberto para criar discos USB de boot para arquivos ISO/WIM/IMG/VHD(x)/EFI.</p>
+  </description>
+  <url type="homepage">https://www.ventoy.net/</url>
+  <url type="bugtracker">https://github.com/ventoy/Ventoy/issues</url>
+  <url type="help">https://forums.ventoy.net/</url>
+  <url type="donation">https://www.ventoy.net/en/donation.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Ventoy Web Interface</caption>
+      <caption xml:lang="pt_BR">Interface Web do Ventoy</caption>
+      <image>https://www.ventoy.net/static/img/webui_en.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>longpanda</project_group>
+  <provides>
+    <binary>VentoyGUI.x86_64</binary>
+    <binary>Ventoy2Disk.sh</binary>
+  </provides>
+  <releases>
+    <release version="VENTOYVERSION" date="2022-05-04"/>
+  </releases>
+  <content_rating type="oars-1.0" />
+</component>
