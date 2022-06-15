@@ -1,0 +1,11 @@
+Package: oracle-jdk-17-lts
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: jdk-17
+Homepage: https://openvpn.net
+Description: Oracle Java Development Kit 17 LTS.
+ Official package of java and jdk from oracle and JAVA_HOME variables.

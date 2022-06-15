@@ -10,3 +10,4 @@ dpkg-deb -b epson-l210 .
 dpkg-deb -b epson-l555 .
 dpkg-deb -b lexmark-mx722 .
 dpkg-deb -b lubuntu-openvpn .
+dpkg-deb -b oracle-jdk-17-lts .
