@@ -1,0 +1,25 @@
+#!/bin/bash
+
+file="/etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml"
+
+if [ ! -f "$file.bkp" ]; then
+    cp $file "$file.bkp"
+fi
+cp /tmp/xfce4-keyboard-shortcuts.xml $file
+
+# Get Names of users
+cat /etc/passwd | grep '/home/' | grep -v 'cups\|syslog\|mysql\|mongodb' | cut -d':' -f1 >/tmp/homes.list
+
+runByUsers() {
+    # $1 is default folder of user
+    # $2 is name of user
+
+    rm -rf "$1/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml"
+}
+
+while read USUARIO; do
+    if [ -d /home/$USUARIO ]; then
+        runByUsers "/home/$USUARIO" "$USUARIO"
+    fi
+done </tmp/homes.list
+

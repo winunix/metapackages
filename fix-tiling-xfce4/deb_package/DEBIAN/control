@@ -1,0 +1,11 @@
+Package: fix-tiling-xfce4
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Homepage: https://winunix.github.io
+Description: Fix tilling of windows in XFCE4.
+ Fix the problem of shortcuts snapping windows on Xubuntu 22.04.
+ 
