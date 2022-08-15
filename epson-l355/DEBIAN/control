@@ -1,0 +1,11 @@
+Package: epson-l355
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: lsb, epson-inkjet-printer-201207w, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Description: Drivers for Epson L355 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L355 Printer - Multifunction InkTank.
