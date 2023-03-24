@@ -1,11 +1,11 @@
 Package: epson-l210
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: lsb, epson-inkjet-printer-201207w, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Depends: lsb, epson-inkjet-printer-201207w, epson-printer-utility-wx, iscan, iscan-data, iscan-network-nt
 Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 Description: Drivers for Epson L210 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L210 Printer - Multifunction InkTank.

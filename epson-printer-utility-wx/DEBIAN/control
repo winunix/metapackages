@@ -1,0 +1,11 @@
+Package: epson-printer-utility-wx
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: extra
+Depends: epson-printer-utility, libqtcore4, libqtgui4
+Homepage: https://github.com/winunix
+Description: Launcher of Epson Printer Utility for Linux.
+ This is a Printer Utility program for Epson Printer Driver with a launcher.

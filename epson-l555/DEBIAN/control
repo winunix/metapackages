@@ -1,11 +1,11 @@
 Package: epson-l555
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: lsb, epson-inkjet-printer-201207w, epson-pc-fax, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Depends: lsb, epson-inkjet-printer-201207w, epson-pc-fax, epson-printer-utility-wx, iscan, iscan-data, iscan-network-nt
 Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 Description: Drivers for Epson L555 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L555 Printer - Wi-Fi Multifunction InkTank.

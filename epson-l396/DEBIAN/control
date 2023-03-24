@@ -1,11 +1,11 @@
 Package: epson-l396
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: lsb, epson-printer-utility, epson-inkjet-printer-escpr, imagescan, imagescan-plugin-gt-s650, imagescan-plugin-networkscan, imagescan-plugin-ocr-engine
+Depends: lsb, epson-printer-utility-wx, epson-inkjet-printer-escpr, imagescan, imagescan-plugin-gt-s650, imagescan-plugin-networkscan, imagescan-plugin-ocr-engine
 Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 Description: Drivers for Epson L396 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L396 Printer - Multifunction InkTank.

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+dpkg-deb -b epson-printer-utility-wx .
 dpkg-deb -b epson-l3250 .
 dpkg-deb -b epson-l3150 .
 dpkg-deb -b epson-l3110 .

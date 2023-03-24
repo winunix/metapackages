@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Epson Printer Utility
+GenericName=Epson Printer Utility
+X-GNOME-FullName=Epson Printer Utility
+Comment=Tool for Epson Printers
+Exec=epson-printer-utility
+Terminal=false
+Type=Application
+Icon=/opt/epson-printer-utility/resource/Images/AppIcon.png
+Categories=System;Printing;
+Keywords=Printer;Print;Ink;
