@@ -15,3 +15,5 @@ dpkg-deb -b lexmark-mx722 .
 dpkg-deb -b lubuntu-openvpn .
 dpkg-deb -b oracle-jdk-17-lts .
 dpkg-deb -b firefox .
+
+dpkg-deb -b canon-pixma-g3110 .
