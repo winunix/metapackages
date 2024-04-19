@@ -1,11 +1,11 @@
 Package: firefox-deb
-Version: 104.0
+Version: 125.0
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: firefox (>= 104.0+build2-0ubuntu0.22.04.1~mt1)
+Depends: firefox (>= 125.0~b9+build1-0ubuntu0.24.04.1)
 Homepage: https://launchpad.net/~mozillateam/+archive/ubuntu/ppa
 Description: Firefox without Snap.
  Install firefox with Ubuntu Snap.

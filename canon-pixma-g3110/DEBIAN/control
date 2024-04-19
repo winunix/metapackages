@@ -1,11 +1,11 @@
 Package: canon-pixma-g3110
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: lsb, cnijfilter2, scangearmp2
+Depends: cnijfilter2, scangearmp2
 Homepage: https://www.canon.com.br/para-voce/impressoras-e-multifuncionais/serie-mega-tank/megatank-g3110
 Description: Drivers for Canon PIXMA G3110 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Canon MegaTank PIXMA G3110 Printer.
